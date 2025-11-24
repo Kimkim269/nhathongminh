@@ -1,0 +1,7 @@
+{
+  "name": "SmartHomeVN AI",
+  "description": "Một mô hình nhà thông minh tương tác mô phỏng điều khiển thiết bị bằng giọng nói (văn bản) và giao diện trực quan, tích hợp Gemini AI để xử lý ngôn ngữ tự nhiên.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
